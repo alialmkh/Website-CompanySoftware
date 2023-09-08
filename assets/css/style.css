@@ -1,0 +1,148 @@
+.btn-solicitar-proposta{
+    margin-left: 10px;
+    background: var(--color-secondary) !important;
+}
+
+.bloco-buscadores img{
+    margin-top: 10px;
+    width: 300px;
+}
+
+.img-logo-google{
+    width: 200px !important;
+}
+
+.stats-counter .stats-item .purecounter{
+    text-align: center;
+}
+
+#stats-counter .mais-de{
+    padding-right: 15px;
+}
+
+#about .bloco-buscadores h2{
+    font-size: 25px;
+}
+
+.topbar .social-links a{
+    color: #041432;
+}
+
+.services .service-item .icon:before{
+    right: -3px !important;
+    top: 20px !important;
+}
+
+.header{
+    z-index: 9999;
+    background: #fff;
+}
+
+#navbar a,
+.header .logo h1{
+    color: #041432 !important;
+}
+
+.header .logo h1 span{
+    color: #1294F6;
+}
+
+.header.sticked{
+    height: 90px;
+}
+
+.services .service-item:hover .icon:before {
+    background: #1294F6;
+}
+
+.testimonials .testimonial-item:hover{
+    background: rgb(244, 244, 244);
+}
+
+.contact .info-container{
+    border-radius: 10px;
+}
+
+.mobile-nav-active .navbar:before{
+    background: #041432;
+}
+
+#topbar a:hover{
+    color: #041432;
+}
+
+.hero .icon-boxes{
+    margin-top: -180px;
+    z-index: 1020;
+}
+
+.hero{
+    background: none;
+}
+
+#hero .slider-item h2,
+#hero .slider-item h1{
+    text-align: left;
+    color: #fff;
+}
+
+#hero .slider-item h1{
+    font-size: 25px;
+}
+
+section{
+    padding: 80px 0;
+}
+
+.gif-loading{
+    width: 45px;
+    height: 45px;
+}
+
+.btn-form{
+    background: #041432;
+    border: 0;
+    padding: 14px 45px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
+.pricing-item h3{
+    font-weight: 900;
+}
+
+.pricing-item h4{
+    font-size: 40px !important;
+}
+
+.pricing-item h5{
+    font-size: 15px;
+}
+
+.pricing .featured{
+    border: none !important;
+}
+
+@media (min-width: 992px){
+    .pricing .featured {
+        transform: scale(1.06);
+    }
+}
+
+@media (max-width: 1199px) {
+    #header {
+        padding: 0 30px;
+    }
+}
+
+@media (max-width: 600px) {
+    #hero h2{
+        font-size: 30px;
+    }
+
+    #hero h1{
+        font-size: 20px;
+    }
+}
+

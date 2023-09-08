@@ -1,0 +1,47 @@
+
+.telas_politicas .card-header {
+    background: #eeeeee;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 #bdbdbd;
+  }
+  
+  .telas_politicas .card button {
+    text-align: start;
+  }
+  
+  #accordion i.fas.fa-circle.icone-circulo {
+    font-size: 8px;
+  }
+  
+  .telas_politicas .card-header button {
+    color: #041432;
+    font-weight: 900;
+  }
+  
+  .telas_politicas .sub-group .card-header {
+    background: #04143275;
+  }
+  
+  .telas_politicas .sub-group .card-header a {
+    color: #041432;
+    font-weight: 900;
+  }
+  
+  thead th,
+  tbody th,
+  table b,
+  #politica_de_privacidade b {
+    color: #041432;
+  }
+  
+  tbody th,
+  .bg-primary-3 {
+    background-color: #eeeeee;
+  }
+  
+  table th,
+  table td {
+    vertical-align: middle !important;
+  }
