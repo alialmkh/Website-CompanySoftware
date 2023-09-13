@@ -2,4 +2,4 @@ Pré-visualização do website
 
 URL: https://hebergustavo.github.io/Website-CompanySoftware/
 
-![CS](https://github.com/heberGustavo/Websites/assets/44476616/a780296b-b32b-426a-861c-0534bedef2ec)
+![image](https://github.com/heberGustavo/Website-CompanySoftware/assets/44476616/e030ed39-841e-4d6a-b844-c30028736ba5)
